@@ -1,0 +1,8 @@
+{
+  "name": "Sri Haridra Collections",
+  "description": "Luxury South Indian 1-gram gold and imitation jewellery storefront with live Google Sheets CSV catalog sync, Men & Women collections, and WhatsApp checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
